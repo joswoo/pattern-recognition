@@ -1,5 +1,3 @@
-# pattern-recognition
-
 Repository for Pattern Recognition class
 
 ## Lab
