@@ -9,5 +9,5 @@
 ```bash
 git clone https://github.com/civisanalytics/python-glmnet.git
 cd python-glmnet
-python setup.py install
+python3 setup.py install --user
 ```
