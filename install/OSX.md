@@ -1,8 +1,18 @@
 Installing packages for OSX
 
 ### Issue
-In OsX, csv and python-glm are not installed by pip3.
-You need to manually install them.
+In OsX, python-glm cannot be installed by pip3.
+You need to manually install it
+
+csv is already installed. 
+
+## Step 3. 
+
+Install standard packages for all users.
+```bash
+sudo pip3 install jupyter numpy scipy matplotlib sklearn statsmodels patsy seaborn pandas pydot Pillow  
+```
+
 
 ### Install python-glmnet from source
 
