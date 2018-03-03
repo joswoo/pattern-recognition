@@ -1,4 +1,7 @@
-## For OSX, 
+Installing packages for OSX
+
+In OsX, csv and python-glm are not installed by pip3.
+You need to manually install them.
 
 ### Install python-glmnet
 
