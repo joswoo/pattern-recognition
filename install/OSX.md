@@ -1,5 +1,6 @@
 Installing packages for OSX
 
+### Issue
 In OsX, csv and python-glm are not installed by pip3.
 You need to manually install them.
 
