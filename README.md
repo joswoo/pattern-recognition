@@ -30,3 +30,11 @@
 10.5 Lab 2: Clustering
 
 10.6 Lab 3: NCI60 Data Example
+
+## Tips
+
+### You can clone this repository by 
+```
+git clone git@github.com:ys7yoo/pattern-recognition.git
+```
+
