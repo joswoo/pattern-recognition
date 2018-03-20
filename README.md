@@ -34,7 +34,7 @@
 ## Tips
   * Data sets are [here](https://github.com/ys7yoo/pattern-recognition/tree/master/data)
   
-  * You can clone this repository by 
+  * You can clone this repository by typing
     ```
     git clone git@github.com:ys7yoo/pattern-recognition.git
     ```
