@@ -1,6 +1,5 @@
-Repository for Pattern Recognition class
 
-## Lab
+## Repository for Python labs for Pattern Recognition class
 
 2.3 Introduction to R ==> [Crash course on Python and Jupyter notebook](lab2.ipynb)
 
