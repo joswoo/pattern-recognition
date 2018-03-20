@@ -2,7 +2,7 @@ Repository for Pattern Recognition class
 
 ## Lab
 
-2.3 Introduction to R ==> Crash course on Python and Jupyter notebook
+2.3 Introduction to R ==> [Crash course on Python and Jupyter notebook](lab2.ipynb)
 
 3.6 Linear regression
 
