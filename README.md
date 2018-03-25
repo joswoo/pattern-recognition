@@ -1,3 +1,8 @@
+## Install some standard packages
+
+    $ pip3 install numpy scipy matplotlib sklearn statsmodels patsy seaborn pandas glmnet_py pydot Pillow jupyter  
+
+
 
 ## Repository for Python labs for Pattern Recognition class
 
